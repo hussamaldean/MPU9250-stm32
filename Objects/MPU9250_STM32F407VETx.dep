@@ -1,0 +1,81 @@
+Dependencies for Project 'MPU9250', Target 'STM32F407VETx': (DO NOT MODIFY !)
+F (.\main.c)(0x5ECF7C56)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_STM32F407VETx-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F407xx-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (i2c.h)(0x5ECE5D69)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (delay.h)(0x5ECE4B0B)
+I (MPU9250.h)(0x5ECF6C05)
+I (LiquidCrystal.h)(0x5ECE4B0B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599F137C)
+F (.\i2c.c)(0x5ECE5D69)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_STM32F407VETx-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F407xx-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (i2c.h)(0x5ECE5D69)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (delay.h)(0x5ECE4B0B)
+F (.\i2c.h)(0x5ECE5D69)()
+F (.\LiquidCrystal.c)(0x5ECF7925)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_STM32F407VETx-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F407xx-o .\objects\liquidcrystal.o --omf_browse .\objects\liquidcrystal.crf --depend .\objects\liquidcrystal.d)
+I (LiquidCrystal.h)(0x5ECE4B0B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599F137C)
+I (delay.h)(0x5ECE4B0B)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+F (.\LiquidCrystal.h)(0x5ECE4B0B)()
+F (.\MPU9250.c)(0x5ECF7263)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_STM32F407VETx-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F407xx-o .\objects\mpu9250.o --omf_browse .\objects\mpu9250.crf --depend .\objects\mpu9250.d)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x599F137E)
+I (MPU9250.h)(0x5ECF6C05)
+I (i2c.h)(0x5ECE5D69)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+I (delay.h)(0x5ECE4B0B)
+F (.\MPU9250.h)(0x5ECF6C05)()
+F (.\delay.c)(0x5ECE4B0B)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_STM32F407VETx-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F407xx-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (delay.h)(0x5ECE4B0B)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
+F (.\delay.h)(0x5ECE4B0B)()
+F (RTE\Device\STM32F407VETx\startup_stm32f407xx.s)(0x5C5BD672)(--cpu Cortex-M4.fp -g --apcs=interwork -I.\RTE\_STM32F407VETx-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 527" --pd "_RTE_ SETA 1" --pd "STM32F407xx SETA 1"--list .\listings\startup_stm32f407xx.lst --xref -o .\objects\startup_stm32f407xx.o --depend .\objects\startup_stm32f407xx.d)
+F (RTE\Device\STM32F407VETx\system_stm32f4xx.c)(0x5C5BD672)(--c99 --gnu -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections-I.\RTE\_STM32F407VETx-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="527" -D_RTE_ -DSTM32F407xx-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BD672)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5C5BD672)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D25D706)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599F137E)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D25D706)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8F9424)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BD672)
